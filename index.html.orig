@@ -1,4 +1,5 @@
 <html>
+<<<<<<< HEAD
   <head>
     <link rel="stylesheet" href="style.css" />
   </head>
@@ -7,6 +8,8 @@
     <div class="content"></div>
     <script src="app.js"></script>
   </body>
+</html>
+=======
       <head>
             <link rel="stylesheet" href="style.css">
       </head>
@@ -16,3 +19,4 @@
             </div>
       </body>
 </html>
+>>>>>>> 806eea714fe987c9322cbd87a42e9ede8eb16aaf
